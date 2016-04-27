@@ -23,6 +23,7 @@ while True:
     elif choise == 'n':
         print ('u vas 0 ochkov, game over'%count)
         break
+    break
         
     
 
